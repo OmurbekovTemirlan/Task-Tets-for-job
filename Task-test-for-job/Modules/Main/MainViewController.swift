@@ -3,7 +3,7 @@
 //  Task-test-for-job
 //
 //  Created by Apple on 1.8.2024.
-//
+// Омурбек уулу Темирлан
 
 import UIKit
 import SnapKit
